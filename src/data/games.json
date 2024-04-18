@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "title": "Game 1",
+      "description": "Description for Game 1",
+      "imagePoster": "game1-poster.jpg",
+      "imageBanner": "game1-banner.jpg",
+      "deluxePrice": 59.99,
+      "regularPrice": 39.99
+    },
+    {
+      "id": 2,
+      "title": "Game 2",
+      "description": "Description for Game 2",
+      "imagePoster": "game2-poster.jpg",
+      "imageBanner": "game2-banner.jpg",
+      "deluxePrice": 69.99,
+      "regularPrice": 49.99
+    },
+    {
+      "id": 3,
+      "title": "Game 3",
+      "description": "Description for Game 3",
+      "imagePoster": "game3-poster.jpg",
+      "imageBanner": "game3-banner.jpg",
+      "deluxePrice": 79.99,
+      "regularPrice": 59.99
+    }
+  ]
+  
